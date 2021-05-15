@@ -8,5 +8,6 @@ Documentation - https://pyportfolioopt.readthedocs.io/en/latest/UserGuide.html
 
 ## Procedure
 1. Get historical data using *historical_data.ipynb*
-2. Create master dataset using *data_preparation.ipynb*
-3. Optimize portfolio for desired amount using *portfolio_optimisation.ipynb*
+    * it
+3. Create master dataset using *data_preparation.ipynb*
+4. Optimize portfolio for desired amount using *portfolio_optimisation.ipynb*
