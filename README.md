@@ -4,7 +4,7 @@
 
 ## Overview
 We create a optimised portfolio of stocks present in various NSE indices for any desired amount.\
-Documentation - https://pyportfolioopt.readthedocs.io/en/latest/UserGuide.html \
+Documentation - https://pyportfolioopt.readthedocs.io/en/latest/UserGuide.html 
 
 ## Procedure
 1. Get historical data using *historical_data.ipynb*
